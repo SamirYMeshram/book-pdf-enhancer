@@ -1,0 +1,16 @@
+You are a senior Python document image processing engineer. Improve this project without deleting its existing features. The project is UltraBook PDF Clarity Studio, a local Python app for scanned book PDF restoration. Preserve the GUI, CLI, enhanced PDF output, preview, OCR wrappers, and quality-first design.
+
+Main objective: maximum clarity of scanned text-heavy PDFs, output as PDF, not just images. Speed and file size are less important than visual quality and OCR readiness.
+
+Improve:
+- page-type classification,
+- deskew confidence,
+- background flattening,
+- shadow removal,
+- faint text preservation,
+- table/diagram-safe processing,
+- optional OCR layer,
+- output PDF rebuild quality,
+- UI usability and preview workflow.
+
+Do not use generative super-resolution as default for text pages. If added, make it optional with clear warnings about text hallucination risk.
