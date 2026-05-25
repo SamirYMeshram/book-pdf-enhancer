@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot 2026-05-25 172338" src="https://github.com/user-attachments/assets/a77bf291-5df1-4961-af5d-48c4fdb5092d" />
 # UltraBook PDF Clarity Studio
 
 A local Python desktop app and CLI for restoring **text-heavy scanned book PDFs** into a clearer enhanced PDF. It is designed for quality-first processing, not speed.
